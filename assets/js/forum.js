@@ -93,7 +93,7 @@ $(document).ready(function () {
       return;
     }
 
-    threads.forEach((thread) => {
+    threads.forEach((thread) => { 
       // Build avatar + border HTML
       // Avatar (tetap sama)
       const avatarSrc = thread.avatar
